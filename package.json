@@ -1,0 +1,19 @@
+{
+  "name": "ng-include-local",
+  "version": "1.0.0",
+  "description": "use ng-include with local env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demigod2015/ng-include-local.git"
+  },
+  "author": "demigod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demigod2015/ng-include-local/issues"
+  },
+  "homepage": "https://github.com/demigod2015/ng-include-local#readme"
+}
